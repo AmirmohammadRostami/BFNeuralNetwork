@@ -1,2 +1,6 @@
-# BFNeuralNetwork
-simple RBF and EBF neural network implementation with tensorflow
+# RBFNeuralNetwork
+simple radial basis function (RBF) and  also elliptic basis function (EBF) neural network implementation with tensorflow (version 1.0)
+for using this class you need tensorflow as basic material, sklearn.kmeans ( for now,in the future we add our implemented kmeans) and also numpy
+simpleClassification and simpleRegression python files written for sample usage of RBFNN class
+
+-- special thanks to @Milad_Bohluli for Helping me in implementtation this class
